@@ -1,0 +1,6 @@
+{
+  "name": "react-three-fiber",
+  "version": "1.0.0",
+  "description": "Helps Claude build 3D scenes in React with React Three Fiber (@react-three/fiber), drei and three.js.",
+  "keywords": ["react", "three.js", "react-three-fiber", "r3f", "3d", "webgl"]
+}
